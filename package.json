@@ -1,0 +1,23 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "practicing  building and checking api calls",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomasRullan/Social-Network-API.git"
+  },
+  "author": "Tomas Rullan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TomasRullan/Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/TomasRullan/Social-Network-API#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.2"
+  }
+}
