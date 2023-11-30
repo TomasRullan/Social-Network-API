@@ -2,9 +2,10 @@
   "name": "social-network-api",
   "version": "1.0.0",
   "description": "practicing  building and checking api calls",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "npm start"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
